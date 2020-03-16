@@ -5,16 +5,16 @@
 [![Size](https://img.shields.io/badge/Size-12.9MB(+983MB)-%23ff4D5B.svg?style=flat-square)](https://github.com/DolorHunter/AirportTaxiDSS/archive/master.zip)
 [![CONTACTUS](https://img.shields.io/badge/Contact-us-ff69b4.svg?style=flat-square)](mailto:dolorhunter@gmail.com)
 
-`ÈçÓĞÒâ»ñµÃ½¨Ä£Ê¹ÓÃµÄÈ«²¿Êı¾İ, ÇëMailÎÒ, Ğ»Ğ»!!`
+`å¦‚æœ‰æ„è·å¾—å»ºæ¨¡ä½¿ç”¨çš„å…¨éƒ¨æ•°æ®, è¯·Mailæˆ‘, è°¢è°¢!!`
 
-**»ú³¡³ö×â³µ¾ö²ßÄ£ĞÍÓëÓÅÏÈµ÷¶È²ßÂÔ** - 2019½¨Ä£¹úÈüCÌâ
+**æœºåœºå‡ºç§Ÿè½¦å†³ç­–æ¨¡å‹ä¸ä¼˜å…ˆè°ƒåº¦ç­–ç•¥** - 2019å»ºæ¨¡å›½èµ›Cé¢˜
 
-- [ÔÚÏßÂÛÎÄ](essay/»ú³¡³ö×â³µ¾ö²ßÄ£ĞÍÓëÓÅÏÈµ÷¶È²ßÂÔ.pdf)
-- [ÂÛÎÄÏÂÔØ](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DolorHunter/AirportTaxiDSS/blob/master/essay/»ú³¡³ö×â³µ¾ö²ßÄ£ĞÍÓëÓÅÏÈµ÷¶È²ßÂÔ.pdf)
+- [åœ¨çº¿è®ºæ–‡](essay/æœºåœºå‡ºç§Ÿè½¦å†³ç­–æ¨¡å‹ä¸ä¼˜å…ˆè°ƒåº¦ç­–ç•¥.pdf)
+- [è®ºæ–‡ä¸‹è½½](https://github.com/DolorHunter/AirportTaxiDSS/raw/master/essay/æœºåœºå‡ºç§Ÿè½¦å†³ç­–æ¨¡å‹ä¸ä¼˜å…ˆè°ƒåº¦ç­–ç•¥.pdf)
 
-**¿ª·¢ÕßÇåµ¥:**
+**å¼€å‘è€…æ¸…å•:**
 
-`¸ĞĞ»¸÷Î»Í¬ÁÅµÄĞÁ¿à¸¶³ö!!`
+`æ„Ÿè°¢å„ä½åŒåƒšçš„è¾›è‹¦ä»˜å‡º!!`
 
 [Wang Zixiang](https://github.com/DolorHunter)
 [HfuterQ](https://github.com/hfuter7712)
